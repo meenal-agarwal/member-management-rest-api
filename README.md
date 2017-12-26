@@ -10,7 +10,7 @@ The API exposes following functionalities (CRUD operation) :
   4. `DELETE /memberService/delete/{dob}/{lastName}`
   5. `GET /memberService/memberList`
 
-
+Description
 1. Read an existing member
 2. Create a new member
 3. Update an existing member
@@ -24,7 +24,7 @@ Unit and Integration tests using [Mockito]() framework are also included.
 #### How to run
 
 ```bash
-$ git clone 
+$ git clone https://github.com/meenal-agarwal/member-management-rest-api.git 
 $ cd ./member-service-management
 $ mvn spring-boot:run
 ```
