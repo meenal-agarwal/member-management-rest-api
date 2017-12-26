@@ -1,4 +1,4 @@
-# Membe-gement-rest-api REST API 
+# Member Management REST API 
 
 
 The purpose of this project is to create a RESTfull API for Member Services. 
