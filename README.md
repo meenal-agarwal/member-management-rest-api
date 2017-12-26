@@ -1,4 +1,4 @@
-# Member REST API 
+# Membe-gement-rest-api REST API 
 
 
 The purpose of this project is to create a RESTfull API for Member Services. 
@@ -25,7 +25,7 @@ Unit and Integration tests using [Mockito]() framework are also included.
 
 ```bash
 $ git clone https://github.com/meenal-agarwal/member-management-rest-api.git 
-$ cd ./member-service-management
+$ cd ./member-management-rest-api
 $ mvn spring-boot:run
 ```
 
